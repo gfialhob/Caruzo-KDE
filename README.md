@@ -1,1 +1,1 @@
-# Caruzo---KDE-Plasma
+# Caruzo-KDE
