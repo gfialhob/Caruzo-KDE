@@ -1,0 +1,26 @@
+[Desktop Entry]
+Name=Caruzo
+Comment=Tema escuro para o KDE Plasma, com detalhes em verde.
+
+X-KDE-PluginInfo-Author=Gabriel Fialho
+X-KDE-PluginInfo-Email=bicouts@gmail.com
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=CC0
+X-KDE-PluginInfo-Name=Caruzo
+X-KDE-PluginInfo-Version=1.1.0
+X-KDE-PluginInfo-Website=https://github.com/gfialhob/Caruzo
+X-Plasma-API=5.0
+
+[ContrastEffect]
+contrast=1.0
+enabled=true
+intensity=0.45
+saturation=1.6
+
+[Wallpaper]
+defaultFileSuffix=.png
+defaultHeight=1080
+defaultWallpaperTheme=ArchBlueLiquid
+defaultWidth=1920

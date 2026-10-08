@@ -1,0 +1,22 @@
+{
+    "KPackageStructure": "KWin/Aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "bicouts@gmail.com",
+                "Name": "Gabriel Fialho"
+            }
+        ],
+        "Category": "Plasma Window Decorations",
+        "ServiceTypes": [
+            "KWin/Aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Caruzo",
+        "Description": "A dark theme for Aurorae window decoration engine.",
+        "Id": "Caruzo",
+        "Version": "1.1.0",
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}

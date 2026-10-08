@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="22"
+   height="22"
+   version="1.1"
+   viewBox="0 0 22 22.000001"
+   id="svg5"
+   sodipodi:docname="keepabove.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs5" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="true"
+     inkscape:zoom="15.717055"
+     inkscape:cx="58.344263"
+     inkscape:cy="1.9405671"
+     inkscape:window-width="1366"
+     inkscape:window-height="698"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5">
+    <inkscape:grid
+       id="grid5"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <g
+     id="active-center"
+     style="enable-background:new">
+    <rect
+       width="22"
+       height="22"
+       style="fill:#000000;opacity:.00100002"
+       id="rect1" />
+    <path
+       transform="matrix(.86602542 0 0 .60000001 .47884954 4.5828564)"
+       d="m12.148778 4.0285726 2.886751 4.9999999 2.886751 4.9999995h-11.547005l2.8867516-4.9999994z"
+       style="fill-rule:evenodd;fill:#aaaaac"
+       id="path1" />
+  </g>
+  <g
+     id="hover-center"
+     style="enable-background:new">
+    <rect
+       x="23"
+       width="22"
+       height="22"
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1"
+       id="rect2"
+       ry="0.99999994"
+       y="0"
+       rx="1" />
+    <circle
+       cx="34"
+       cy="11"
+       r="11"
+       style="display:none;opacity:0.2;fill:#ffffff"
+       id="circle2" />
+    <path
+       d="m34.000001 7 2.499999 3 2.5 3h-10l2.500001-3z"
+       style="fill-rule:evenodd;fill:#aaaaac"
+       id="path2" />
+  </g>
+  <g
+     id="pressed-center"
+     style="enable-background:new">
+    <rect
+       x="46"
+       width="22"
+       height="22"
+       style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+       id="rect3"
+       ry="1.0020961"
+       y="0"
+       rx="1" />
+    <circle
+       cx="57"
+       cy="11"
+       r="11"
+       style="display:none;opacity:0.3;fill:#ffffff"
+       id="circle3" />
+    <path
+       d="m57.000001 7 2.499999 3 2.5 3h-10l2.500001-3z"
+       style="fill-rule:evenodd;fill:#aaaaac"
+       id="path3" />
+  </g>
+  <g
+     id="inactive-center"
+     style="enable-background:new">
+    <rect
+       x="69"
+       width="22"
+       height="22"
+       style="fill:#000000;opacity:.00100002"
+       id="rect4" />
+    <path
+       transform="matrix(.86602542 0 0 .60000001 69.47885 4.5828564)"
+       d="m12.148778 4.0285726 2.886751 4.9999999 2.886751 4.9999995h-11.547005l2.8867516-4.9999994z"
+       style="fill-rule:evenodd;fill:#ffffff;opacity:.25"
+       id="path4" />
+  </g>
+  <g
+     id="deactivated-center"
+     style="enable-background:new">
+    <rect
+       x="92"
+       width="22"
+       height="22"
+       style="fill:#000000;opacity:.00100002"
+       id="rect5" />
+    <path
+       transform="matrix(.86602542 0 0 .60000001 92.47885 4.5828564)"
+       d="m12.148778 4.0285726 2.886751 4.9999999 2.886751 4.9999995h-11.547005l2.8867516-4.9999994z"
+       style="fill-rule:evenodd;fill:#ffffff;opacity:.25"
+       id="path5" />
+  </g>
+</svg>

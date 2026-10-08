@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Caruzo
+Description=Tela de login escura com destaque verde
+Author=Gabriel Fialho
+Copyright=(c) 2026, Gabriel Fialho
+License=CC0
+Type=sddm-theme
+Version=1.1.0
+Website=
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=Caruzo
+QtVersion=6

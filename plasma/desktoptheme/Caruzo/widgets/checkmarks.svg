@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2"
+   version="1.1"
+   viewBox="0 0 16 32"
+   sodipodi:docname="checkmarks.svg"
+   width="16"
+   height="32"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs41" />
+  <sodipodi:namedview
+     id="namedview39"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     height="32px"
+     inkscape:current-layer="svg2"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="15.34375"
+     inkscape:cx="-5.8655806"
+     inkscape:cy="13.849288"
+     inkscape:window-width="1366"
+     inkscape:window-height="698"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14902"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <style
+     id="current-color-scheme"
+     type="text/css">
+        .ColorScheme-Text {
+            color:#232629;
+        }
+        .ColorScheme-ButtonFocus{
+            color:#3daee9;
+        }
+    </style>
+  <g
+     id="checkbox">
+    <rect
+       style="fill:#00995d;fill-opacity:0.329412;fill-rule:evenodd;stroke:#00995d;stroke-opacity:1"
+       id="rect924"
+       width="15"
+       height="15"
+       x="0.5"
+       y="0.5"
+       rx="0.5"
+       ry="0.5"
+       class="ColorScheme-ButtonFocus" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:currentColor;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:5;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 3.5,8.5 6.5,11.5 l 6,-6"
+       id="path2684"
+       sodipodi:nodetypes="ccc"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="radiobutton">
+    <circle
+       style="fill:#00995d;fill-rule:evenodd;stroke:#00995d;fill-opacity:0.32941177;stroke-opacity:1"
+       id="path978"
+       cx="8"
+       cy="24"
+       r="7.5"
+       class="ColorScheme-ButtonFocus" />
+    <circle
+       style="fill:currentColor;fill-rule:evenodd"
+       id="path1899"
+       cx="8"
+       cy="24"
+       r="3"
+       class="ColorScheme-Text" />
+  </g>
+</svg>

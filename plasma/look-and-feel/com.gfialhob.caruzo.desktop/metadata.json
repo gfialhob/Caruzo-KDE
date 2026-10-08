@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Gabriel Fialho",
+                "Email": "bicouts@gmail.com"
+            }
+        ],
+        "Category": "",
+        "Description": "Tela de carregamento escura com destaque verde",
+        "Id": "com.gfialhob.caruzo.desktop",
+        "License": "CC0",
+        "Name": "Caruzo",
+        "ServiceTypes": ["Plasma/LookAndFeel"],
+        "Version": "1.1.0",
+        "Website": ""
+    }
+}

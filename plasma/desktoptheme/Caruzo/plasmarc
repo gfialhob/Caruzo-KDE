@@ -1,0 +1,11 @@
+[ContrastEffect]
+contrast=1.0
+enabled=true
+intensity=0.45
+saturation=1.4
+
+[Wallpaper]
+defaultWallpaperTheme=ArchBlueLiquid
+defaultFileSuffix=.png
+defaultWidth=1920
+defaultHeight=1080

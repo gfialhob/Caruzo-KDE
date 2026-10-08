@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Gabriel Fialho",
+                "Email": "bicouts@gmail.com"
+            }
+        ],
+        "Name": "Caruzo",
+        "Description": "Tema escuro para o KDE Plasma, com detalhes em verde.",
+        "Id": "Caruzo",
+        "Version": "1.1.0",
+        "Category": "",
+        "EnabledByDefault": true,
+        "License": "CC0",
+        "Website": ""
+    },
+    "X-Plasma-API": "5.0"
+}
